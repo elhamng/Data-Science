@@ -36,7 +36,29 @@
  ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-15.jpg)
  ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-16.jpg)
  
+ ## Variability :
  
+ 
+ ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-35.jpg)
+ ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-36.jpg)
+ ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-37.jpg)
+ ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-38.jpg)
+ 
+ variance :
+ 
+ Standard Deviation and Coefficient of Variation
+ 
+ ![image](https://user-images.githubusercontent.com/64529936/127644393-8bb742ec-be78-401c-8eb6-ca51a45e9693.png)
+ ![image](https://user-images.githubusercontent.com/64529936/127644524-b6f3fdc6-503d-47cd-bc51-65f31fa513db.png)
+ ![image](https://user-images.githubusercontent.com/64529936/127640602-83a72abe-93af-474b-8dcf-c1641650c07f.png)
+  ![image](https://user-images.githubusercontent.com/64529936/127645246-164a9135-22db-4296-8dde-799addcde31e.png)
+
+ 
+ 
+  
+ 
+ 
+  
  ##What is <img src="https://latex.codecogs.com/gif.latex?R^2" title="R^2" /> ? 
 
  <a href="https://www.codecogs.com/eqnedit.php?latex=R^2&space;=&space;\frac{variebility&space;explained&space;by&space;the&space;regression&space;}{total&space;variability&space;of&space;the&space;dataset}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^2&space;=&space;\frac{variebility&space;explained&space;by&space;the&space;regression&space;}{total&space;variability&space;of&space;the&space;dataset}" title="R^2 = \frac{text{variebility explained by the regression} }{text{total variability of the dataset}}" /></a>
