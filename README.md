@@ -19,7 +19,7 @@
  Cross table : shows data  
  
  Measure of central tendency :  
-![image] (https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-31.jpg)
+![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-31.jpg)
  
  mean :  simple average : <img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /> for population and  <img src="https://latex.codecogs.com/gif.latex?\bar{x}" title="\bar{x}" /> for sample. It is easily affected by outliers.  
  
