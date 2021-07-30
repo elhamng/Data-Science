@@ -3,8 +3,8 @@
  
  Populations and Samples:
  
- A parameter is a characteristic of a population n e. g. , the average height of all Americans. \\
- A statistics is a characteristic of a sample n e. g. , the average height of a sample of Americans.
+ A parameter is a characteristic of a population  e. g. , the average height of all Americans. \ 
+ A statistics is a characteristic of a sample e. g. , the average height of a sample of Americans.
  
  Data based on types and measurement level, Data type is categorical and numerical.  Categorical data has categories or groups. Numerical data present numbers.  They show discrete or continuous.
  
