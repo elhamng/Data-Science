@@ -60,6 +60,7 @@
   A distribution is a function that shows the possible values for a variable and how often they occur. Uniform distribution , normal distributions and exponential distribution.
   
   standardization (mean, std) =(0,1) . the standardazied variable called z-score 
+  ![image](https://user-images.githubusercontent.com/64529936/127658753-04e7b499-ebad-4c48-aec2-ed02c16996eb.png)
   ![image](https://user-images.githubusercontent.com/64529936/127649926-c3eff461-68ea-4328-b0fb-706ac308a638.png)
   
   Central limit theorem: 
@@ -75,15 +76,20 @@ An estimate for a parameter that is one numerical value. An example of a point e
  Such intervals are built around point estimates which is why understanding point estimates is important to understanding interval estimates.
  the standard error of the mean is <img src="https://latex.codecogs.com/gif.latex?\frac{\sigma&space;}{\sqrt{n}}" title="\frac{\sigma }{\sqrt{n}}" />
 
-confidence interval is the range within which you expect the population parameter to be.  sample mean is point estimate 
+confidence interval is the range within which you expect the population parameter to be.  sample mean is point estimate and population variance is known.
 ![image](https://user-images.githubusercontent.com/64529936/127655789-88be8be1-ff27-471b-b2b9-b695943b0140.png)
 
+## t-statistics :
+ It is looking like normal distribution but has fatter tails . There is more uncertainty . Z-statistics is more related to normal distribution. t-statistics is related to student t distribution.
+ confidence interval-population variance is unknown.  The exact shape of the Student’s t-distribution depends on the degrees of freedom. As the degrees of freedom increases, the graph of Student’s t-distribution becomes more like the graph of the standard normal distribution.
+  Sample size is small we use student t distribution. we have sample mean and sample standard deviation and standard error. 
+  ![image](https://user-images.githubusercontent.com/64529936/127659744-bd5b61a0-dcc1-45f5-bf4f-d75a6461aba1.png)
 
-  
-  
-  
-   
- 
+Dependent samples.  like linear regression 
+Independent samples :  two samples are truly independent 
+![image](https://user-images.githubusercontent.com/64529936/127662564-733203c9-dea3-41bc-b944-7c4886eb6e9e.png)
+![image](https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png)
+
  
   
  ##What is <img src="https://latex.codecogs.com/gif.latex?R^2" title="R^2" /> ? 
