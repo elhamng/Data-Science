@@ -52,10 +52,37 @@
  ![image](https://user-images.githubusercontent.com/64529936/127644524-b6f3fdc6-503d-47cd-bc51-65f31fa513db.png)
  ![image](https://user-images.githubusercontent.com/64529936/127640602-83a72abe-93af-474b-8dcf-c1641650c07f.png)
   ![image](https://user-images.githubusercontent.com/64529936/127645246-164a9135-22db-4296-8dde-799addcde31e.png)
-
- 
- 
   
+  correlation is symmetrical with respect to both variables. This is very important for causality.  Correlation does not imply causation. 
+  
+  ## Inferential statistics
+  what is distribution ?  point estimates and confidence intervals ?  
+  A distribution is a function that shows the possible values for a variable and how often they occur. Uniform distribution , normal distributions and exponential distribution.
+  
+  standardization (mean, std) =(0,1) . the standardazied variable called z-score 
+  ![image](https://user-images.githubusercontent.com/64529936/127649926-c3eff461-68ea-4328-b0fb-706ac308a638.png)
+  
+  Central limit theorem: 
+  
+  no matter underlying distribution, sampling distribution  of mean is normal distribution. even population distribution is nor normal. 
+  the standard deviation of the distribution formed by sample means
+ 
+ Estimator and estimation:
+
+Point Estimates
+An estimate for a parameter that is one numerical value. An example of a point estimate is the sample mean or the sample proportion. 
+ point estimate is stand exactly in the confidence interval estimates.
+ Such intervals are built around point estimates which is why understanding point estimates is important to understanding interval estimates.
+ the standard error of the mean is <img src="https://latex.codecogs.com/gif.latex?\frac{\sigma&space;}{\sqrt{n}}" title="\frac{\sigma }{\sqrt{n}}" />
+
+confidence interval is the range within which you expect the population parameter to be.  sample mean is point estimate 
+![image](https://user-images.githubusercontent.com/64529936/127655789-88be8be1-ff27-471b-b2b9-b695943b0140.png)
+
+
+  
+  
+  
+   
  
  
   
