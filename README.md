@@ -89,8 +89,17 @@ Dependent samples.  like linear regression, and
 Independent samples :  two samples are truly independent
  
 <img src ="https://user-images.githubusercontent.com/64529936/127662564-733203c9-dea3-41bc-b944-7c4886eb6e9e.png" width = "400" height = "250" />
-<img src ="https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png" width = "250" height = "250" />
+<img src ="https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png" width = "400" height = "250" />
 
+ ## Hypothesis test
+ 1- Formulate a hypothesis, 2- find the right test, 3- execute the test, 4-make dicision
+ 
+ null hypothesis: it is the statement we are trying to reject. the null hypothesis is always the accepted fact. 
+ H0 = mean grade of population = 70 <img src="https://latex.codecogs.com/gif.latex?%" title="%" />.   so H1 is population mean grade is not 70 <img src="https://latex.codecogs.com/gif.latex?%" title="%" /> , first calculate mean of sample then scale z-score so check if z is in the rejection region 
+ State the alpha level. If you aren’t given an alpha level, use 5<img src="https://latex.codecogs.com/gif.latex?%" title="%" /> (0.05).
+ 
+  type one error = false positive , type two error= false negative
+  
  
   
  ##What is <img src="https://latex.codecogs.com/gif.latex?R^2" title="R^2" /> ? 
