@@ -88,7 +88,7 @@ confidence interval is the range within which you expect the population paramete
 Dependent samples.  like linear regression 
 Independent samples :  two samples are truly independent 
 ![image](https://user-images.githubusercontent.com/64529936/127662564-733203c9-dea3-41bc-b944-7c4886eb6e9e.png)
-![image](https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png)
+![image](https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png| width=100)
 
  
   
