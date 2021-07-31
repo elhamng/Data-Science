@@ -85,9 +85,10 @@ confidence interval is the range within which you expect the population paramete
   Sample size is small we use student t distribution. we have sample mean and sample standard deviation and standard error. 
   ![image](https://user-images.githubusercontent.com/64529936/127659744-bd5b61a0-dcc1-45f5-bf4f-d75a6461aba1.png)
 
-Dependent samples.  like linear regression 
-Independent samples :  two samples are truly independent 
-<img src ="https://user-images.githubusercontent.com/64529936/127662564-733203c9-dea3-41bc-b944-7c4886eb6e9e.png" width = "250" height = "250" />
+Dependent samples.  like linear regression, and 
+Independent samples :  two samples are truly independent
+ 
+<img src ="https://user-images.githubusercontent.com/64529936/127662564-733203c9-dea3-41bc-b944-7c4886eb6e9e.png" width = "400" height = "250" />
 <img src ="https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png" width = "250" height = "250" />
 
  
