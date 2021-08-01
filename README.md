@@ -122,7 +122,7 @@ Are the means of two or more populations different from each other?
   
   accepted if p-value > alpha and rejected if p-value < alpha
   
- 
+ ## Linear regression   analysis
   
  ##What is <img src="https://latex.codecogs.com/gif.latex?R^2" title="R^2" /> ? 
 
@@ -156,15 +156,28 @@ As long as your model satisfies the OLS assumptions for linear regression, you c
 In regression analysis, the coefficients in the regression equation are estimates of the actual population parameters. We want these coefficient estimates to be the best possible estimates!
 
  ##  Linearity:
- The linear regression is the simplest non-trivial relationship.  if assumption is violated we can use transformation.
+ The linear regression is the simplest non-trivial relationship.  
+ In statistics, a regression model is linear when all terms in the model are either the constant or a parameter multiplied by an independent variable.
+ if assumption is violated we can use transformation. Linear models can model curvature by including nonlinear variables such as polynomials and transforming exponential functions.
  
  ## No Endogeneity
  
- error between predicted value and real value is correlated with independent variable. this is problem called omitted variable bias.Omitted variable bias occurs when you forget to include a variable. This is reflected in the error term as the factor you forgot about is included in the error. In this way, the error is not random but includes a systematic part (the omitted variable
+ error between predicted value and real value is correlated with independent variable. this is problem called omitted variable bias.Omitted variable bias occurs when you forget to include a variable. This is reflected in the error term as the factor you forgot about is included in the error. In this way, the error is not random but includes a systematic part (the omitted variable). 
+ ## Normality and homoscedasticity
+ 
+ The variance of the errors should be consistent for all observations. In other words, the variance does not change for each observation or for a range of observations. This preferred condition is known as homoscedasticity (same scatter). If the variance changes, we refer to that as heteroscedasticity (different scatter). 
   
  ## Autocorrelation
  Autocorrelation is not observed in cross-sectional data. You usually spot it at time series data, which is a subset of panel data. we can recognise  autocorrelation by plotting all residuals in a graph and look for patterns. alternative model is autoregressive. 
  
+ Residuals = Observed value – the fitted value
+ 
+ ## Multicollinearity
+ We observe multicollinearity when two or more variable  have a high correlation. This impose a big problem to our regression model as the coefficient will be wrongly estimated.  We can fix it by drop one of two variables or transform them into one  (average ).
+ 
+ 
+ 
+  
  
  
   
