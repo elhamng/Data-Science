@@ -18,6 +18,11 @@
  
  Cross table : shows data  
  
+ Descriptive and inferential statistics are two broad categories in the field of statistics.
+ ## Descriptive statistic
+ Use descriptive statistics to summarize and graph the data for a group that you choose. This process allows you to understand that specific set of observations. Descriptive statistics describe a sample. 
+Descriptive statistics frequently use the following statistical measures to describe groups:  Central tendency, Dispersion, Skewness.
+ 
  Measure of central tendency :
  
  ![image](https://slidetodoc.com/presentation_image_h/014b1c614da506e65bda7ccf07b992e9/image-30.jpg)
@@ -56,6 +61,9 @@
   correlation is symmetrical with respect to both variables. This is very important for causality.  Correlation does not imply causation. 
   
   ## Inferential statistics
+  
+  Inferential statistics takes data from a sample and makes inferences about the larger population from which the sample was drawn. Using a random sample, we can generalize from the sample to the broader population. The difference between the sample statistic and the population value is the sampling error. Inferential statistics incorporate estimates of this error into the statistical results. 
+  The most common methodologies in inferential statistics are hypothesis tests, confidence intervals, and regression analysis.
   what is distribution ?  point estimates and confidence intervals ?  
   A distribution is a function that shows the possible values for a variable and how often they occur. Uniform distribution , normal distributions and exponential distribution.
   
@@ -92,6 +100,12 @@ Independent samples :  two samples are truly independent
 <img src ="https://user-images.githubusercontent.com/64529936/127662601-4ebbf79a-6041-4670-a6c2-d0583e91c56f.png" width = "400" height = "250" />
 
  ## Hypothesis test
+ 
+ Hypothesis tests use sample data answer questions like the following:
+
+Is the population mean greater than or less than a particular value?
+Are the means of two or more populations different from each other?
+ 
  1- Formulate a hypothesis, 2- find the right test, 3- execute the test, 4-make dicision
  
  null hypothesis: it is the statement we are trying to reject. the null hypothesis is always the accepted fact. 
@@ -99,6 +113,14 @@ Independent samples :  two samples are truly independent
  State the alpha level. If you aren’t given an alpha level, use 5<img src="https://latex.codecogs.com/gif.latex?%" title="%" /> (0.05).
  
   type one error = false positive , type two error= false negative
+  
+  We call this significant level (alpha). We first transform our sample.we choose Standard Normal Distribution ( mean =0 and std =1 ). It is just we can simply transform our data from any normal distribution to Standard normal distribution.
+  
+  P-value :  
+  This rejection of null hypothesis and accepting the alternate hypothesis is done using the P value 
+  ![image](https://user-images.githubusercontent.com/64529936/127738748-bcb11388-3847-4e9b-b790-5b05786b6ff5.png)
+  
+  accepted if p-value > alpha and rejected if p-value < alpha
   
  
   
@@ -121,10 +143,30 @@ Independent samples :  two samples are truly independent
   Almost always, the adjusted R-squared is smaller than the R-squared. The statement is not true only in the extreme occasions of small sample sizes and a high number of independent variables.
 
   
- ## What is ANOVA (analysis of variance)?
+ ##  What is ANOVA (analysis of variance)?
  
  Analysts use the ANOVA test to determine the influence that independent variables have on the dependent variable in a regression study.
   ## What is F-statistics?
+  
+It follows f distribution. null hypothesis : all the betas are zero , alternative hypothesis : at least one beta is not zero . the lower the f-statistics the closer to a non-significant model.
+
+## OLS estimate 
+Ordinary Least Squares (OLS) is the most common estimation method for linear models.
+As long as your model satisfies the OLS assumptions for linear regression, you can rest easy knowing that you’re getting the best possible estimates.
+In regression analysis, the coefficients in the regression equation are estimates of the actual population parameters. We want these coefficient estimates to be the best possible estimates!
+
+ ##  Linearity:
+ The linear regression is the simplest non-trivial relationship.  if assumption is violated we can use transformation.
+ 
+ ## No Endogeneity
+ 
+ error between predicted value and real value is correlated with independent variable. this is problem called omitted variable bias.Omitted variable bias occurs when you forget to include a variable. This is reflected in the error term as the factor you forgot about is included in the error. In this way, the error is not random but includes a systematic part (the omitted variable
+  
+ ## Autocorrelation
+ Autocorrelation is not observed in cross-sectional data. You usually spot it at time series data, which is a subset of panel data. we can recognise  autocorrelation by plotting all residuals in a graph and look for patterns. alternative model is autoregressive. 
+ 
+ 
+ 
   
   
   
